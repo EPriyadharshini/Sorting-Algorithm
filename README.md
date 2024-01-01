@@ -68,7 +68,18 @@ print(insertion_sort(arr))
 ```
 
 ## Output:
+
+
+
+
+
+
 <img width="268" alt="image" src="https://github.com/EPriyadharshini/Sorting-Algorithm/assets/144870831/69d5e54f-0090-481a-9687-16a380904e32">
+
+
+
+
+
 
 
 <img width="268" alt="image" src="https://github.com/EPriyadharshini/Sorting-Algorithm/assets/144870831/dfb577fc-47cc-4109-9553-0b152512b11c">
